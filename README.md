@@ -1,1 +1,1 @@
-# Hi, I'm Jose Montero 👋🏾 👩🏾‍💻
+# Hi, I'm Jose Montero 👋🏻👨🏻‍💻
