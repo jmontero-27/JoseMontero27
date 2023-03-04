@@ -1,1 +1,3 @@
-# Hola, soy <a href="https://montero.org.es">Jose Montero</a> 👋🏻👨🏻‍💻
+# Hola, soy <a href="https://montero.org.es" target="_blank">Jose Montero</a> 👋🏻👨🏻‍💻
+<br><br>
+Soy Técnico en Desarrollo de Aplicaciones Multimedia, y en Sistemas Microinformáticos y Redes.
